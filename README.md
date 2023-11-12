@@ -2,8 +2,8 @@ Welcome to the Food Ordering System, a simple Python script that allows users to
 
 Table of Contents
 
-[Features](#features)
-[How to Use](#How to Use)
+Features
+How to Use
 Prerequisites
 Installation
 Usage
@@ -25,6 +25,7 @@ Features
 How to Use
 
 Prerequisites
+
 Python 3.x installed on your machine.
 
 Installation
